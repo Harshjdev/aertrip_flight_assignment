@@ -1,0 +1,17 @@
+.price-filter { margin-top: 4px; }
+.price-filter__head { margin-bottom: 8px; }
+.price-filter__title { margin: 0; font-size: 13px; font-weight: 600; color: #6b7385; text-transform: uppercase; letter-spacing: 0.04em; }
+.price-filter__values {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.price-filter__bounds {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: #9aa1b1;
+  margin-top: 6px;
+}
